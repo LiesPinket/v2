@@ -1,4 +1,4 @@
-# v2
+# retake
 - clone this repository 
 - unrar the onedrive file in the cloned folder
 - push/commit: ready to go! 
